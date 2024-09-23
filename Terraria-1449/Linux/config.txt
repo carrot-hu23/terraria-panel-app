@@ -1,0 +1,12 @@
+world=Terraria\Worlds\world1.wld
+autocreate=1
+seed=AwesomeSeed
+worldname=默认的世界
+difficulty=0
+maxplayers=8
+port=7777
+password=
+motd=请不要砍紫色的树
+banlist=banlist.txt
+secure=1
+language=zh-Hans
