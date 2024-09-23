@@ -38,7 +38,7 @@ func main() {
 			configPath = ".\\Terraria-1449\\Linux\\config.txt"
 		} else {
 			binPath = "./Terraria-1449/Linux/TerrariaServer.bin.x86_64"
-			configPath = "./Terraria-1449/Linux/config.txt"
+			configPath = "./config.txt"
 		}
 		// global.TerrariaGame = server.NewGame(`C:\\Users\\paratera\\Desktop\\我的\\泰拉瑞亚\\1449\\Linux\\TerrariaServer.exe`, `C:\Users\paratera\Desktop\我的\泰拉瑞亚\1449\Linux\config.txt`)
 		global.TerrariaGame = server.NewGame(binPath, configPath)
