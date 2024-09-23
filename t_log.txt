@@ -1,0 +1,260 @@
+Error Logging Enabled.
+Terraria Server v1.4.4.9
+
+Resetting game objects 1%
+Resetting game objects 2%
+Resetting game objects 3%
+Resetting game objects 4%
+Resetting game objects 5%
+Resetting game objects 6%
+Resetting game objects 7%
+Resetting game objects 8%
+Resetting game objects 9%
+Resetting game objects 10%
+Resetting game objects 11%
+Resetting game objects 12%
+Resetting game objects 13%
+Resetting game objects 14%
+Resetting game objects 15%
+Resetting game objects 16%
+Resetting game objects 17%
+Resetting game objects 18%
+Resetting game objects 19%
+Resetting game objects 20%
+Resetting game objects 21%
+Resetting game objects 22%
+Resetting game objects 23%
+Resetting game objects 24%
+Resetting game objects 25%
+Resetting game objects 26%
+Resetting game objects 27%
+Resetting game objects 28%
+Resetting game objects 29%
+Resetting game objects 30%
+Resetting game objects 31%
+Resetting game objects 32%
+Resetting game objects 33%
+Resetting game objects 34%
+Resetting game objects 35%
+Resetting game objects 36%
+Resetting game objects 37%
+Resetting game objects 38%
+Resetting game objects 39%
+Resetting game objects 40%
+Resetting game objects 41%
+Resetting game objects 42%
+Resetting game objects 43%
+Resetting game objects 44%
+Resetting game objects 45%
+Resetting game objects 46%
+Resetting game objects 47%
+Resetting game objects 48%
+Resetting game objects 49%
+Resetting game objects 50%
+Resetting game objects 51%
+Resetting game objects 52%
+Resetting game objects 53%
+Resetting game objects 54%
+Resetting game objects 55%
+Resetting game objects 56%
+Resetting game objects 57%
+Resetting game objects 58%
+Resetting game objects 59%
+Resetting game objects 60%
+Resetting game objects 61%
+Resetting game objects 62%
+Resetting game objects 63%
+Resetting game objects 64%
+Resetting game objects 65%
+Resetting game objects 66%
+Resetting game objects 67%
+Resetting game objects 68%
+Resetting game objects 69%
+Resetting game objects 70%
+Resetting game objects 71%
+Resetting game objects 72%
+Resetting game objects 73%
+Resetting game objects 74%
+Resetting game objects 75%
+Resetting game objects 76%
+Resetting game objects 77%
+Resetting game objects 78%
+Resetting game objects 79%
+Resetting game objects 80%
+Resetting game objects 81%
+Resetting game objects 82%
+Resetting game objects 83%
+Resetting game objects 84%
+Resetting game objects 85%
+Resetting game objects 86%
+Resetting game objects 87%
+Resetting game objects 88%
+Resetting game objects 89%
+Resetting game objects 90%
+Resetting game objects 91%
+Resetting game objects 92%
+Resetting game objects 93%
+Resetting game objects 94%
+Resetting game objects 95%
+Resetting game objects 96%
+Resetting game objects 97%
+Resetting game objects 98%
+Resetting game objects 99%
+Resetting game objects 100%
+Loading world data: 1%
+Loading world data: 2%
+Loading world data: 3%
+Loading world data: 4%
+Loading world data: 5%
+Loading world data: 6%
+Loading world data: 7%
+Loading world data: 8%
+Loading world data: 9%
+Loading world data: 10%
+Loading world data: 11%
+Loading world data: 12%
+Loading world data: 13%
+Loading world data: 14%
+Loading world data: 15%
+Loading world data: 16%
+Loading world data: 17%
+Loading world data: 18%
+Loading world data: 19%
+Loading world data: 20%
+Loading world data: 21%
+Loading world data: 22%
+Loading world data: 23%
+Loading world data: 24%
+Loading world data: 25%
+Loading world data: 26%
+Loading world data: 27%
+Loading world data: 28%
+Loading world data: 29%
+Loading world data: 30%
+Loading world data: 31%
+Loading world data: 32%
+Loading world data: 33%
+Loading world data: 34%
+Loading world data: 35%
+Loading world data: 36%
+Loading world data: 37%
+Loading world data: 38%
+Loading world data: 39%
+Loading world data: 40%
+Loading world data: 41%
+Loading world data: 42%
+Loading world data: 43%
+Loading world data: 44%
+Loading world data: 45%
+Loading world data: 46%
+Loading world data: 47%
+Loading world data: 48%
+Loading world data: 49%
+Loading world data: 50%
+Loading world data: 51%
+Loading world data: 52%
+Loading world data: 53%
+Loading world data: 54%
+Loading world data: 55%
+Loading world data: 56%
+Loading world data: 57%
+Loading world data: 58%
+Loading world data: 59%
+Loading world data: 60%
+Loading world data: 61%
+Loading world data: 62%
+Loading world data: 63%
+Loading world data: 64%
+Loading world data: 65%
+Loading world data: 66%
+Loading world data: 67%
+Loading world data: 68%
+Loading world data: 69%
+Loading world data: 70%
+Loading world data: 71%
+Loading world data: 72%
+Loading world data: 73%
+Loading world data: 74%
+Loading world data: 75%
+Loading world data: 76%
+Loading world data: 77%
+Loading world data: 78%
+Loading world data: 79%
+Loading world data: 80%
+Loading world data: 81%
+Loading world data: 82%
+Loading world data: 83%
+Loading world data: 84%
+Loading world data: 85%
+Loading world data: 86%
+Loading world data: 87%
+Loading world data: 88%
+Loading world data: 89%
+Loading world data: 90%
+Loading world data: 91%
+Loading world data: 92%
+Loading world data: 93%
+Loading world data: 94%
+Loading world data: 95%
+Loading world data: 96%
+Loading world data: 97%
+Loading world data: 98%
+Loading world data: 99%
+Loading world data: 100%
+Settling liquids 1%
+Settling liquids 2%
+Settling liquids 3%
+Settling liquids 4%
+Settling liquids 5%
+Settling liquids 6%
+Settling liquids 7%
+Settling liquids 8%
+Settling liquids 9%
+Settling liquids 10%
+Settling liquids 11%
+Settling liquids 12%
+Settling liquids 13%
+Settling liquids 14%
+Settling liquids 15%
+Settling liquids 16%
+Settling liquids 17%
+Settling liquids 18%
+Settling liquids 19%
+Settling liquids 20%
+Settling liquids 21%
+Settling liquids 22%
+Settling liquids 23%
+Settling liquids 24%
+Settling liquids 25%
+Settling liquids 26%
+Settling liquids 27%
+Settling liquids 28%
+Settling liquids 29%
+Settling liquids 30%
+Settling liquids 31%
+Settling liquids 32%
+Settling liquids 33%
+Settling liquids 34%
+Settling liquids 35%
+Settling liquids 36%
+Settling liquids 37%
+Settling liquids 38%
+Settling liquids 39%
+Settling liquids 40%
+Settling liquids 41%
+Settling liquids 42%
+Settling liquids 43%
+Settling liquids 44%
+Settling liquids 45%
+Settling liquids 46%
+Settling liquids 47%
+Settling liquids 48%
+Settling liquids 49%
+Settling liquids 50%
+Terraria Server v1.4.4.9
+
+Listening on port 7777
+Type 'help' for a list of commands.
+
+: Server started
+Saving before exit...
