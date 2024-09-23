@@ -2,14 +2,15 @@ package main
 
 import (
 	"fmt"
-	"github.com/gin-gonic/gin"
-	"github.com/spf13/viper"
 	"log"
 	"runtime"
 	"terraria-panel/api"
 	"terraria-panel/internal/config"
 	"terraria-panel/internal/global"
 	"terraria-panel/server"
+
+	"github.com/gin-gonic/gin"
+	"github.com/spf13/viper"
 )
 
 var (
